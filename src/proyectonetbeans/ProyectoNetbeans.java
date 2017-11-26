@@ -17,7 +17,9 @@ public class ProyectoNetbeans {
     public static void main(String[] args) {
         // TODO code application logic here
         //1º añado algo al proyecto
-        System.out.println("Hello word");
+        System.out.print("Hello ");
+        //2º Añado otra linea al proeycto
+        System.out.print("Leonardo");
     }
     
 }
